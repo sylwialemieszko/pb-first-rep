@@ -1,2 +1,3 @@
 # pb-first-rep
-my first repo in github
+My first repo on Github
+Edited online
